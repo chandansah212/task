@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1fc288be.chunk.css",
+    "main.js": "/static/js/main.68f507ba.chunk.js",
+    "main.js.map": "/static/js/main.68f507ba.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.475ad6a7.js",
+    "runtime-main.js.map": "/static/js/runtime-main.475ad6a7.js.map",
+    "static/js/2.7e0b44ce.chunk.js": "/static/js/2.7e0b44ce.chunk.js",
+    "static/js/2.7e0b44ce.chunk.js.map": "/static/js/2.7e0b44ce.chunk.js.map",
+    "static/js/3.467c3223.chunk.js": "/static/js/3.467c3223.chunk.js",
+    "static/js/3.467c3223.chunk.js.map": "/static/js/3.467c3223.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.1fc288be.chunk.css.map": "/static/css/main.1fc288be.chunk.css.map",
+    "static/js/2.7e0b44ce.chunk.js.LICENSE.txt": "/static/js/2.7e0b44ce.chunk.js.LICENSE.txt",
+    "static/media/NEWS_2021.10.12_Some-disabgirl image1.234f0cbe.jpg": "/static/media/NEWS_2021.10.12_Some-disabgirl image1.234f0cbe.jpg",
+    "static/media/image3.49e0197e.jpg": "/static/media/image3.49e0197e.jpg",
+    "static/media/home.css": "/static/media/image4.149b81b5.jpg",
+    "static/media/image5.2f21aa46.jpg": "/static/media/image5.2f21aa46.jpg",
+    "static/media/iskul.df229e4e.jpg": "/static/media/iskul.df229e4e.jpg",
+    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.475ad6a7.js",
+    "static/js/2.7e0b44ce.chunk.js",
+    "static/css/main.1fc288be.chunk.css",
+    "static/js/main.68f507ba.chunk.js"
+  ]
+}
